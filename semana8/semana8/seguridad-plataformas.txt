@@ -1,0 +1,5 @@
+No exponer datos personales de los usuarios sin autorización.
+Proteger las credenciales usando contraseñas seguras y no compartirlas.
+Usar conexiones seguras para evitar que la información sea interceptada.
+Registrar los accesos y cambios realizados dentro de la plataforma.
+Limitar el acceso a información sensible según el rol de cada usuario.
