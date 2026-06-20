@@ -1,0 +1,8 @@
+El uso responsable de la información en internet permite participar mejor en la sociedad.
+Antes de compartir una noticia o una opinión, es importante verificar si la información es confiable.
+Esto ayuda a evitar la desinformación y fortalece una ciudadanía más crítica y responsable.
+La participación ciudadana también requiere comunicarse de forma ética y respetuosa.
+En el trabajo técnico, herramientas como Git ayudan a organizar los cambios y colaborar con otros.
+Git permite guardar versiones, corregir errores y saber quién hizo cada aporte.
+Esto se relaciona con la responsabilidad, porque el trabajo queda más claro y ordenado.
+Así como debemos cuidar la información que compartimos, también debemos cuidar cómo trabajamos en equipo.
