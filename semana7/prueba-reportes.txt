@@ -1,0 +1,13 @@
+inicialmente se hizo un post para registrar un reporte
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+luego se hizo un get para obtener todos los reportes
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
