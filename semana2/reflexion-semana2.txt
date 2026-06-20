@@ -1,0 +1,9 @@
+Es importante que un desarrollador sepa usar la terminal porque le permite trabajar de forma más rápida y ordenada.
+Con la terminal puede navegar entre carpetas sin depender siempre del explorador de archivos.
+También puede crear, mover y revisar archivos dentro de un proyecto de manera eficiente.
+Esto ayuda a mantener una buena organización cuando el proyecto tiene muchas carpetas y documentos.
+Además, muchas herramientas de desarrollo se usan desde la terminal, como Git.
+Saber usar comandos permite guardar cambios, revisar el estado del proyecto y subir archivos a repositorios.
+La terminal también ayuda a entender mejor la estructura interna de un proyecto.
+Cuando un desarrollador domina la terminal, puede resolver problemas con más facilidad.
+En conclusión, usar la terminal es una habilidad básica para trabajar de forma profesional y organizada.
