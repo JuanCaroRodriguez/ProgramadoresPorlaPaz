@@ -1,0 +1,11 @@
+Se hace una petición POST a la ruta /incidencia con el siguiente cuerpo:
+{
+  "tipo": "Denuncia por negligencia policial",
+  "descripcion": "La comunidad reporta que un policía ha estado deteniendo a personas sin motivo claro y de manera discriminatoria."
+}
+La respuesta que se obtiene es:
+{
+    "mensaje": "Incidencia registrada",
+    "tipo": "Denuncia por negligencia policial",
+    "descripcion": "La comunidad reporta que un policía ha estado deteniendo a personas sin motivo claro y de manera discriminatoria."
+}

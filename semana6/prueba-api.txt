@@ -1,0 +1,10 @@
+Al hacer una petición POST a la ruta /registro con el siguiente cuerpo:
+{
+  "nombre": "Pancracio",
+  "mensaje": "Hola comunidad"
+}
+La respuesta que se obtiene es: 
+{
+  "nombre": "Pancracio",
+  "mensaje": "Hola comunidad"
+}
