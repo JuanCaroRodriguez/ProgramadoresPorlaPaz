@@ -1,0 +1,10 @@
+Una plataforma tecnológica que promueve la participación ciudadana debe tener una base de datos para guardar la información de forma organizada.
+Esto permite registrar causas, apoyos, reportes y avances de manera clara.
+La base de datos facilita consultar la información cuando sea necesario y hacer seguimiento a los procesos comunitarios.
+También es importante contar con autenticación de usuarios para controlar quién puede acceder a ciertas funciones.
+No todas las personas deben poder modificar, eliminar o consultar información interna.
+La protección de datos evita riesgos de privacidad y el uso indebido de la información.
+En una comunidad, no se deben exponer datos sensibles como documentos, teléfonos, direcciones o contraseñas.
+La autenticación y el control de acceso ayudan a generar confianza en la plataforma.
+Además, permiten mantener mayor responsabilidad sobre las acciones realizadas dentro del sistema.
+Por eso, la tecnología debe usarse con seguridad, organización y respeto por la privacidad de la comunidad.
