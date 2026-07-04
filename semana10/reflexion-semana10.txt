@@ -1,0 +1,10 @@
+Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten dividir el trabajo en tareas claras y priorizadas.
+El backlog facilita identificar qué actividades son más importantes y cuáles pueden realizarse después.
+Las iteraciones permiten avanzar poco a poco, revisar resultados y corregir errores a tiempo.
+Esto es útil en procesos de participación ciudadana porque las necesidades de la comunidad pueden cambiar.
+La automatización también ayuda porque reduce tareas repetitivas y mejora la rapidez en la comunicación.
+Herramientas como n8n pueden enviar alertas o recordatorios sin necesidad de hacerlo manualmente.
+Telegram puede servir como canal para coordinar al equipo, convocar reuniones y notificar avances.
+Sin embargo, estas herramientas deben usarse con responsabilidad y sin compartir información sensible.
+La tecnología debe apoyar el trabajo comunitario, pero siempre con supervisión humana y criterios claros.
+De esta forma, la comunidad puede trabajar de manera más ordenada, segura y colaborativa.

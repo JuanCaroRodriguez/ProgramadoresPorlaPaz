@@ -1,0 +1,13 @@
+¿Qué evento activa el flujo?
+
+El flujo se activa cuando un ciudadano registra un nuevo reporte o incidencia en el sistema comunitario de veeduría.
+
+¿Qué mensaje se enviaría a Telegram?
+
+Mensaje: “Nuevo reporte recibido. Revisar el sistema para asignar seguimiento.”
+
+Este mensaje se enviaría al grupo de coordinación del equipo de veeduría para que un responsable revise el caso y determine la prioridad.
+
+¿Qué información no debería enviarse por seguridad?
+
+No se deben enviar nombres completos, números de documento, direcciones exactas, teléfonos, correos electrónicos, claves, ubicaciones precisas ni detalles sensibles del caso. La automatización solo debe compartir información general y no sensible, para proteger la privacidad de los ciudadanos y evitar riesgos para la comunidad.
