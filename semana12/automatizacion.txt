@@ -1,0 +1,16 @@
+﻿Herramienta utilizada: n8n y Telegram.
+
+Evento que activa la automatización:
+El registro de una nueva causa en la plataforma.
+
+Proceso:
+n8n recibe la información del sistema y activa automáticamente el envío de una notificación por Telegram.
+
+Mensaje enviado:
+“Nueva causa creada en la plataforma: revisa la información y participa”.
+
+Información permitida:
+Título de la causa, fecha de creación y enlace público para consultarla.
+
+Información que no debe enviarse:
+Números de cédula, teléfonos, direcciones, contraseñas, correos personales, comentarios sensibles ni otros datos privados.

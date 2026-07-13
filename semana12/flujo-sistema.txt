@@ -1,0 +1,8 @@
+﻿1. Un ciudadano crea una causa indicando su título y descripción.
+2. El sistema valida que la información requerida esté completa.
+3. La causa queda registrada en la base de datos.
+4. Otros ciudadanos consultan la causa y registran su apoyo.
+5. El sistema almacena y cuenta los apoyos recibidos.
+6. Cuando la causa alcanza los apoyos necesarios, el sistema organiza la información.
+7. El sistema genera automáticamente un documento PDF con la petición.
+8. El documento puede descargarse, compartirse o presentarse ante una institución.

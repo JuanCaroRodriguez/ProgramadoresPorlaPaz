@@ -1,0 +1,19 @@
+﻿Entidad: Causa
+
+Campos:
+id: Identificador único de la causa.
+titulo: Nombre o asunto principal de la causa.
+descripcion: Explicación del problema y de la solicitud.
+fecha: Fecha en la que se creó la causa.
+
+La entidad Causa sirve para almacenar la información principal de cada petición creada por la comunidad.
+
+Entidad: Apoyo
+
+Campos:
+id: Identificador único del apoyo.
+causa_id: Identificador de la causa que recibe el apoyo.
+nombre: Nombre de la persona que apoya la causa.
+fecha: Fecha en la que se registró el apoyo.
+
+La entidad Apoyo sirve para registrar las personas que respaldan una causa. El campo causa_id permite relacionar cada apoyo con una causa específica.

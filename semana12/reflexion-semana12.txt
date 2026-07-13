@@ -1,0 +1,9 @@
+﻿Durante el curso aprendí que la tecnología puede facilitar la participación ciudadana.
+Las plataformas digitales permiten organizar causas y necesidades de una comunidad.
+También ayudan a registrar apoyos y presentar solicitudes de manera más ordenada.
+Comprendí que una solución tecnológica debe responder a un problema real.
+La seguridad digital es fundamental para proteger los datos de los participantes.
+También es importante solicitar solamente la información personal necesaria.
+La automatización puede mejorar las notificaciones y reducir tareas repetitivas.
+El trabajo colaborativo con Git y GitHub permite construir y mejorar proyectos.
+En conclusión, la tecnología debe utilizarse de forma ética, inclusiva y responsable.
